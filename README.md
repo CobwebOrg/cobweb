@@ -25,6 +25,6 @@ The Cobweb project is a partnership of the CDL, Harvard Library, and UCLA Librar
 <p>
 <h1>Acknowledgements</h1>
 <p>
-This project was made possible in part by the Institute of Museum and Library Services, #LG-70-16-0093-16. The views, findings, conclusions or recommendations expressed in this wiki do not necessarily represent those of the Institute of Museum and Library Services.
+This project was made possible in part by the <a href="https://www.imls.gov/">Institute of Museum and Library Services</a>, #LG-70-16-0093-16. The views, findings, conclusions or recommendations expressed in this wiki do not necessarily represent those of the Institute of Museum and Library Services.
 </p>
 <img src="https://camo.githubusercontent.com/a38353e07e76525ba5626ff555d2dbac855a617d/68747470733a2f2f7777772e696d6c732e676f762f73697465732f64656661756c742f66696c65732f696d6c735f6c6f676f5f32632e6a7067" width="250"/>
