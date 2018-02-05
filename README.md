@@ -2,6 +2,12 @@
 <p>
 COBWEB is an effort by the California Digital Library (<a href="http://www.cdlib.org/">CDL</a>), <a href="http://library.harvard.edu/">Harvard Library</a>, and <a href="http://www.library.ucla.edu/">UCLA Library</a> to create a collaborative collection development platform supporting the creation of comprehensive web archives by coordinating the independent activities of the web archiving community.
 </p>
+<p>
+For more context about Cobweb, visit http://www.cdlib.org/cobweb/
+</p>
+<p>
+To follow active development of Cobweb, visit https://github.com/CobwebOrg/cobweb-django
+</p>
 <h1>Our Vision for the Future</h1>
 <p>
 Imagine a fast-moving news event unfolding online via news reports, videos, blogs, and social media. Recognizing the importance of recording this event, a curator immediately creates a new Cobweb project and issues an open call for nominations of relevant web sites. Scholars, subject area specialists, interested members of the public, and event participants themselves quickly respond, contributing to a site list that is more comprehensive than could be created by any one curator or institution. Archiving institutions review the site list and publicly claim responsibility for capturing portions of it that are consistent with local collection development policies and technical capacities. After capture, the institutions’ holdings information is updated in Cobweb to disclose the various collections containing newly available content.  By distributing the responsibility, more content is captured more quickly with less overall effort than would otherwise be possible.
